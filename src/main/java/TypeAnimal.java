@@ -2,5 +2,6 @@
 public enum TypeAnimal {
 
 	CHAT,
-	CHIEN;
+	CHIEN,
+	FOX;
 }
